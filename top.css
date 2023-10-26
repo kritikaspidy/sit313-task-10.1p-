@@ -1,0 +1,13 @@
+.Top p {
+    color: rgb(41, 38, 38);
+    font-weight: 20px;
+    font-size: 40px;
+    background-color: rgb(246, 245, 251);
+    
+}
+
+.Top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

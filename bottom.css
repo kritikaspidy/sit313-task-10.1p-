@@ -1,0 +1,23 @@
+.Bottom_bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.Bottom_bar p{
+    padding: 10px 50px;
+    
+    
+}
+
+.Bottom_bar input{
+    margin: 10px 10px;
+    padding: 10px;
+    border-radius: 23px;
+    width: 40%;
+}
+
+.Bottom_bar button{
+    border-radius: 20px;
+    padding: 10px 20px;
+}
